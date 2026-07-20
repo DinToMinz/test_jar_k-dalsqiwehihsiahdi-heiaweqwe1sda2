@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Version: 2.5
+MIDlet-Vendor: cuongcute
+MIDlet-Name: THNJ tb2 v2
+MIDlet-1: THNJ tb2 v2,/MrQuyet/mid.png,b
+0: 148 tb2 THNJ v2 2,/1730031357886.png,bv,/1730031357886.ini
+
