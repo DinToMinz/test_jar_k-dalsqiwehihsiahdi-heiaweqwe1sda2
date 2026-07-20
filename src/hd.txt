@@ -1,0 +1,22 @@
+﻿Lệnh Chat Trong Bản Ninja 148
+(*) Các lệnh chat cũ xem tại đây: http://bit.ly/nso148
+(*) Các chức năng vip chính của phiên bản: http://bit.ly/ninja148v75
+
+** 1 vài hướng dẫn cần đọc**
+
+(*) Các lệnh chat:
+
+- ktg: bật tắt auto ktg
+- locdo: bật tắt lọc đồ
+- vdmq: thêm item vdmq vào ds nhặt
+- hsl: bật tắt hồi sinh lượng
+- gd+X: giao dịch item có id là X cho đối phương đang chọn 
+- rut+X: rút item có id là X ra khỏi rương 
+- nhan: bật auto nhận đồ
+
+
+(*) Một số chức năng khuyến mãi bổ sung khác :D
+
+- Có thể xem ID map bằng cách mở bản đồ ra chỉ vào map, ID map sẽ hiện ở góc trên
+- Fix lỗi kẹt trong lôi đài giờ Ninja tài năng, hoặc lỗi đen màn hình
+- Giữ kết nối các acc phụ (lôi đài, pk âm) ko bị diss khi đứng chờ.
